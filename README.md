@@ -3,7 +3,7 @@ Miguel Angel Lopez Hernandez - curriculum vitae
 
 ## PDF
 
-You can get the last version PDF [here](https://github.com/MiguelALH/cv/blob/master/MiguelALH-cv-en.pdf)
+You can get the latest version in PDF [here](https://github.com/MiguelALH/cv/blob/master/MiguelALH-cv-en.pdf)
 
 ## Acknowledgments
 
