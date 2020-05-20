@@ -1,6 +1,12 @@
 # CV
 Miguel Angel Lopez Hernandez - curriculum vitae
 
+## PDF
+
+You can get the last version PDF [here](https://github.com/MiguelALH/cv/blob/master/MiguelALH-cv-en.pdf)
+
+## Acknowledgments
+
 Based on [Friggeri Résumé/CV](http://www.latextemplates.com/template/friggeri-resume-cv)
 
 ## Requirements
@@ -9,6 +15,6 @@ Based on [Friggeri Résumé/CV](http://www.latextemplates.com/template/friggeri-
 
 ## Build
 
-    xelatex file-cv.tex
+`xelatex file-cv.tex`
 
 Run the command multiple times on the first build.
