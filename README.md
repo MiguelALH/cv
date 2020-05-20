@@ -1,5 +1,5 @@
 # CV
-Miguel Angel Lopez Hernandez - curriculum vitae
+Miguel Angel Lopez Hernandez - Curriculum Vitae
 
 ## PDF
 
@@ -10,6 +10,7 @@ You can get the latest version in PDF [here](https://github.com/MiguelALH/cv/blo
 Based on [Friggeri Résumé/CV](http://www.latextemplates.com/template/friggeri-resume-cv)
 
 ## Requirements
+
 - `dev-texlive/texlive-xetex`
 - `font-awesome`
 
