@@ -1,4 +1,5 @@
 # CV
+
 Miguel Angel Lopez Hernandez - Curriculum Vitae
 
 ## PDF
@@ -11,8 +12,16 @@ Based on [Friggeri Résumé/CV](http://www.latextemplates.com/template/friggeri-
 
 ## Requirements
 
-- `dev-texlive/texlive-xetex`
-- `font-awesome`
+- `texlive-xetex`
+
+Ubuntu/Debian
+
+```shell
+sudo apt install texlive-latex-extra
+sudo apt install texlive-fonts-extra
+```
+
+- Fonts: Font Awesome, Hack Nerd Font
 
 ## Build
 
