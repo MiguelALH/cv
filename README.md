@@ -2,6 +2,8 @@
 
 Miguel Angel Lopez Hernandez - Curriculum Vitae
 
+[![Preview](https://github.com/MiguelALH/cv/blob/master/preview.png)](https://github.com/MiguelALH/cv/blob/master/MiguelALH-cv-en.pdf)
+
 ## PDF
 
 You can get the latest version in PDF [here](https://github.com/MiguelALH/cv/blob/master/MiguelALH-cv-en.pdf)
@@ -22,6 +24,12 @@ sudo apt install texlive-fonts-extra
 ```
 
 - Fonts: Font Awesome, Hack Nerd Font
+
+## Preview
+
+```shell
+convert cv.pdf -background white -alpha remove preview.png
+```
 
 ## Build
 
