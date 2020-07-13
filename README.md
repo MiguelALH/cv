@@ -16,11 +16,22 @@ Based on [Friggeri Résumé/CV](http://www.latextemplates.com/template/friggeri-
 
 - `texlive-xetex`
 
-Ubuntu/Debian
+### Ubuntu/Debian
 
 ```shell
 sudo apt install texlive-latex-extra
 sudo apt install texlive-fonts-extra
+```
+
+### Fedora
+```shell
+sudo dnf install texlive-scheme-medium
+sudo dnf install texlive-roboto
+sudo dnf install telive-textpos
+sudo dnf install telive-fontawesome
+
+sudo dnf install google-roboto-fonts
+sudo dnf install google-roboto-condensed-fonts
 ```
 
 - Fonts: Font Awesome, Hack Nerd Font
