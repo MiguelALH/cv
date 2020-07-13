@@ -252,10 +252,6 @@
   \href{http://#1}{{\nfWebsite} #1}
 }
 
-\newcommand{\phone}[1]{%
-  \href{mailto:miguel@gulev.org?subject=We are interested in you!&body=Send us your phone please!}{{\faWhatsapp}/{\faPhoneSquare} #1}
-}
-
 \newcommand{\twitter}[1]{%
   \social{https://twitter.com}{\faTwitterSquare}{#1}
 }
