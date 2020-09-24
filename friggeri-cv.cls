@@ -163,7 +163,7 @@
 \renewcommand{\section}[1]{
   \par\vspace{\parskip}
   {%
-    \LARGE\headingfont\color{headercolor}%
+    \Large\headingfont\color{headercolor}%
     \@sectioncolor #1%
   }
   \par\vspace{\parskip}
@@ -203,7 +203,7 @@
     #4\vspace{\parsep}%
   }\\}
   \newcommand{\entryedu}[3]{%
-  #1&\parbox[t]{10.8cm}{%
+  #1&\parbox[t]{11cm}{%
     \textbf{#2}%
     \hfill%
     {\footnotesize\addfontfeature{Color=lightgray} #3}\vspace{\parsep}%
@@ -304,7 +304,7 @@
 % Other tweaks %
 %%%%%%%%%%%%%%%%
 
-\RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=2cm,nohead,nofoot]{geometry}
+\RequirePackage[left=6.1cm,top=2cm,right=1.5cm,bottom=1cm,nohead,nofoot]{geometry}
 \RequirePackage[hidelinks]{hyperref}
 \hypersetup{
     colorlinks=false,
